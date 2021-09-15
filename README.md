@@ -1,7 +1,7 @@
 # 个人网站lmtss
 
 ## 网页地址
-[lmtss](lmtss.cn)
+lmtss.cn
 
 ## 21.9.15
 ```
